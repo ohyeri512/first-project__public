@@ -1,2 +1,5 @@
 # first-project__public
-remaking louis poulsen website
+Remaking Louis poulsen website.
+
+
+루이스 폴센 웹사이트 리디자인🌟
